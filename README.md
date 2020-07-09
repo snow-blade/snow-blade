@@ -47,3 +47,6 @@ You can find and get touch with me on these accounts!
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.jpg" alt="twitter logo" width="24">](https://twitter.com/tweepcoder) 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/12024660/user12024660)
 |
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=snow-blade.snow-blade)
+
