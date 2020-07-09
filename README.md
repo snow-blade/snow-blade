@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Freeman from Bujumbura, Burundi who is a noob, Open Source and fedora-infra contributor, networking enthusiastic, does competitive programming with c++ and [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag) when i have time , loves Anime and Manga, always learning new things, ready for discussions and making new projects,occasionnaaly write blogs etc.
+I am Freeman a software dev from Bujumbura, Burundi who is a noob, Open Source and fedora-infra contributor, networking enthusiastic, does competitive programming with c++ and [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag) when i have time , loves Anime and Manga, always learning new things, ready for discussions and making new projects,occasionnaaly write blogs etc.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: can esily speak 5 languages
