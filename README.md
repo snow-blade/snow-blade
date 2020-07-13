@@ -2,6 +2,7 @@
 
 I am Freeman a software dev from Bujumbura, Burundi who is also a gamer, Open Source and fedora-infra contributor, networking enthusiastic,also does competitive programming with c++ and [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag) when i have time , loves Anime and Manga, always learning new things, ready for discussions and making new projects,occasionnaaly write blogs etc.
 
+Checkout my blog: [blog.snow-blade.vercel.app](blog.snow-blade.vercel.app)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: can esily speak 5 languages
 - 💬 Ask me about: anything that i can help you with
@@ -44,7 +45,7 @@ I am Freeman a software dev from Bujumbura, Burundi who is also a gamer, Open So
 You can find and get touch with me on these accounts!
 
  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="24">](https://github.com/snow-blade)  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/ucode_257/)
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.jpg" alt="twitter logo" width="24">](https://twitter.com/tweepcoder) 
+[<img src="https://image.flaticon.com/icons/png/512/23/23681.png" alt="twitter" width="24">](https://twitter.com/tweepcoder) 
  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/12024660/user12024660)
 
 
