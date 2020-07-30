@@ -3,9 +3,11 @@
 I am Freeman a software dev from Bujumbura, Burundi who is also a gamer, Open Source and fedora-infra contributor, networking enthusiastic,also does competitive programming with c++ and [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag) when i have time , loves Anime and Manga, always learning new things, ready for discussions and making new projects,occasionnaaly write blogs etc.
 
 Checkout my blog: [blog.snow-blade.vercel.app](https://blog.snow-blade.vercel.app)
+- 🔭 Currently working on Vlite, a package manager for the lite text editor
+- 🌱 Currently learning Rust with webassembly to try implementing native CLI interfaces on web-browsers
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: i am actually not boring
-- 💬 Ask me about: anything that i can help you with
+- 💬 Ask me about: Vlang, C/C++, Rust or infosec
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=snow-blade&hide=stars&show_icons=true&theme=radical)
 
