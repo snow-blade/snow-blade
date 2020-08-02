@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Freeman a software dev from Bujumbura, Burundi who is also a gamer, Open Source and fedora-infra contributor, networking enthusiastic,also does competitive programming with c++ and [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag) when i have time , loves Anime and Manga, always learning new things, ready for discussions and making new projects,occasionnaaly write blogs etc.
+I am Freeman a software dev from Bujumbura, Burundi who is also a gamer, Open Source and fedora-infra contributor,i'm a networking enthusiastic,and i also do competitive programming with c++ and [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag) when i have time ,i love Anime and Manga and i'm always learning new things.
 
 Checkout my blog: [blog.snow-blade.vercel.app](https://blog.snow-blade.vercel.app)
 - 🔭 Currently working on Vlite, a package manager for the lite text editor
