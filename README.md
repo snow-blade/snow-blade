@@ -7,7 +7,7 @@ Checkout my blog: [blog.snow-blade.vercel.app](https://blog.snow-blade.vercel.ap
 - 🌱 Currently learning Rust with webassembly to try implementing native CLI interfaces on web-browsers
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: i am actually not boring
-- 💬 Ask me about: Vlang, C/C++, Rust or infosec
+- 💬 Ask me about: Vlang, C/C++, Rust, Python or infosec
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=snow-blade&hide=stars&show_icons=true&theme=radical)
 
