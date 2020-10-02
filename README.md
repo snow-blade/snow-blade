@@ -6,7 +6,7 @@ Checkout my blog: [blog.snow-blade.vercel.app](https://blog.snow-blade.vercel.ap
 - 🔭 Currently working on Vlite, a package manager for the lite text editor
 - 🌱 Currently learning Rust with webassembly to try implementing native CLI interfaces on web-browsers
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: i am secretly a Lord Of The Rings fan
+- ⚡ Fun fact: i am the most nerdy person you'll ever meet...
 - 💬 Ask me about: Vlang, C/C++, Rust, Python or infosec
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=snow-blade&hide=stars&show_icons=true&theme=radical)
