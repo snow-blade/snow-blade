@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://snow-blade.github.io/portfolio/](https://snow-blade.github.io/portfolio/)
 
-- 📝 I regulary write articles on [blog.snow-blade.vercel.app/](blog.snow-blade.vercel.app/)
+- 📝 I regulary write articles on [https://blog.snow-blade.vercel.app/](blog.snow-blade.vercel.app/)
 
 - 💬 Ask me about **Nextjs, Rust, python or C++**
 
