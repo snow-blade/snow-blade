@@ -29,6 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Random crates episode 3: deadwiki](/posts/random-crate-ep-3/)
+- [Random crate episode 2: Aion](/posts/random-crate-ep-2/)
+- [Random Crates, Episode 1](/posts/random-crate-ep-1/)
+- [How to output files and directory along with their icons with the ls command](/posts/print-icons-in-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
