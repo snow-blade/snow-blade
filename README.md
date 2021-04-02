@@ -29,9 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Launching my blog 🚀🚀🔥🔥](https://dev.to/jujue/launching-my-blog-bgm)
-- [How i started coding as a teen and where i am now](https://dev.to/jujue/how-i-started-coding-as-a-teen-and-where-i-am-now-520n)
-- [The very simple reason why i don't use vim but prefer nano](https://dev.to/jujue/the-very-simple-reason-why-i-don-t-use-vim-but-prefer-nano-5bb0)
+- [Random crates episode 3: deadwiki](/posts/random-crate-ep-3/)
+- [Random crate episode 2: Aion](/posts/random-crate-ep-2/)
+- [Random Crates, Episode 1](/posts/random-crate-ep-1/)
+- [How to output files and directory along with their icons with the ls command](/posts/print-icons-in-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
