@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Porting C++ code to python using the pybind11 library](/posts/cplusplus-ffi-python/)
+- [C++ Goodies Episode 2: Better unit tests using the Catch2 library](/posts/cpp-goodies-ep-2/)
+- [C++ Goodies ep1: Porting C++ code to python using the pybind11 library](/posts/cplusplus-ffi-python/)
+- [August Recap: Goodbye holidays's 🚀 💻 🖱](/posts/august-recap/)
 - [Random crates episode 3: deadwiki](/posts/random-crate-ep-3/)
-- [Random crate episode 2: Aion](/posts/random-crate-ep-2/)
-- [Random Crates, Episode 1](/posts/random-crate-ep-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
