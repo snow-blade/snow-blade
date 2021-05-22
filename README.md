@@ -29,10 +29,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [C++ Goodies Episode 2: Better unit tests using the Catch2 library](/posts/cpp-goodies-ep-2/)
-- [C++ Goodies ep1: Porting C++ code to python using the pybind11 library](/posts/cplusplus-ffi-python/)
-- [August Recap: Goodbye holidays's 🚀 💻 🖱](/posts/august-recap/)
-- [Random crates episode 3: deadwiki](/posts/random-crate-ep-3/)
+- [Launching my blog 🚀🚀🔥🔥](https://dev.to/jujue/launching-my-blog-bgm)
+- [How i started coding as a teen and where i am now](https://dev.to/jujue/how-i-started-coding-as-a-teen-and-where-i-am-now-520n)
+- [The very simple reason why i don't use vim but prefer nano](https://dev.to/jujue/the-very-simple-reason-why-i-don-t-use-vim-but-prefer-nano-5bb0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
